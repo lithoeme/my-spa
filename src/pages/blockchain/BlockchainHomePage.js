@@ -1,18 +1,18 @@
 
-// src/pages/AboutPage.js
+// src/pages/blockchain/BlockchainHomePage.js
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function AboutPage() {
+function BlockchainHomePage() {
     return (
         <div>
             <h1>About Us</h1>
             <p>Passionate about building an awesome browser blockchain technology.</p>
             <nav>
-                <Link to="/">Home</Link> | <Link to="/blog">Blog</Link>
+                <Link to="/">Home</Link>
             </nav>
         </div>
     );
 }
 
-export default AboutPage;
+export default BlockchainHomePage;

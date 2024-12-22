@@ -8,7 +8,7 @@ function HomePage() {
             <h1>Welcome to the Home Page</h1>
             <p>This is where your journey begins!</p>
             <nav>
-                <Link to="/about">About Us</Link> | <Link to="/blog">Blog</Link>
+                <Link to="/about">About Us</Link> | <Link to="/blog">Blog</Link> | <Link to="/blockchain">Blockchain</Link>
             </nav>
         </div>
     );

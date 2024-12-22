@@ -8,6 +8,7 @@ function BlogHome() {
         <div>
             <h1>Welcome to the Blog</h1>
             <p>Explore our latest articles and updates.</p>
+            <p></p>
             <nav>
                 <Link to="/">Home</Link> | <Link to="/about">About Us</Link>
             </nav>
